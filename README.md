@@ -1,0 +1,1 @@
+This repository contains a vulnerable ERC20 token contract and its patched version. The vulnerable contract suffers from a reentrancy bug in the balanceOf function, allowing an attacker to exploit it for malicious purposes. The patched contract demonstrates how to address this reentrancy vulnerability.
